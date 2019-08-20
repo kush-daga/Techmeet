@@ -193,4 +193,17 @@
         text-align: center;
         margin: 25px 0;
     }
+
+    .motive h2 {
+        font-size: 1em;
+    }
+    .motive p {
+        font-size: 0.75em;
+    }
+    .register h1 {
+        font-size: 1.4em;
+    }
+    .register p {
+        font-size: 1em;
+    }
 }
