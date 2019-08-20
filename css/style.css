@@ -189,6 +189,13 @@
 }
 
 @media screen and (max-width: 768px) {
+    .navbar p {
+        font-size: 0.75em;
+        padding: 0.1em;
+    }
+    .navbar {
+        padding: 0.2em;
+    }
     .col-sm-4 {
         text-align: center;
         margin: 25px 0;
@@ -199,6 +206,15 @@
     }
     .motive p {
         font-size: 0.75em;
+    }
+    .register {
+        padding: 0;
+        max-width: 90%;
+        margin: auto;
+        margin-bottom: 10em;
+    }
+    .register .container {
+        border: orange solid 1.2px;
     }
     .register h1 {
         font-size: 1.4em;
