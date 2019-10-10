@@ -3,14 +3,14 @@
 }
 .navbar {
     background-color: rgb(17, 17, 22);
-    padding: 1.25em;
+    padding: 1.24em;
     font-family: "Share Tech Mono", monospace;
-    font-size: 1.4em;
+    font-size: 1.3em;
 }
 
 .container {
     background-color: white;
-    margin: 5%;
+    margin: 6%;
     color: black;
     border-radius: 10px;
     padding: 10%;
